@@ -15,4 +15,13 @@
 
 .recipes {
     display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+}
+
+.card img {
+    width: 500px;
+    height: auto;
+    border-radius: 15px;
 }

@@ -1,7 +1,18 @@
 .main {
-    color: blue;
+    color: yellow;
+    background-color: brown;
+    margin-bottom: 200px;
 }
 
 .subsection {
     color: red;
+    margin-bottom: 200px;
+}
+
+.span {
+    background-color: greenyellow;
+    padding: 20px;
+    border-color: black;
+    border-radius: 50%;
+    margin: 20px;
 }
